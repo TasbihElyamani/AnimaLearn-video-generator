@@ -1,0 +1,9 @@
+SAMPLE SCRIPT — How to Train a Neural Network (1 min)
+Step 1: Prepare labeled data (images with categories, text with labels).
+Step 2: Define architecture (layers, neurons, activation functions).
+Step 3: Forward pass — feed data through the network.
+Step 4: Compute loss — how wrong are the predictions?
+Step 5: Backpropagate — compute gradients.
+Step 6: Update weights using an optimizer like Adam.
+Step 7: Repeat for many epochs. Monitor validation loss.
+Step 8: Deploy the trained model.

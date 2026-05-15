@@ -1,0 +1,34 @@
+# AnimaLearn — Dependencies
+# LLM: Groq (free, OpenAI-compatible)
+groq>=0.9.0
+openai>=1.30.0
+# Embeddings: local, no API key
+sentence-transformers>=3.0.0
+# Orchestration
+langgraph>=0.2.0
+langchain-core>=0.3.0
+# Vector Store
+qdrant-client>=1.12.0
+# MCP
+mcp>=1.0.0
+# TTS (free)
+edge-tts>=6.1.0
+gTTS>=2.5.0
+# Media
+Pillow>=10.0.0
+moviepy>=1.0.3
+pysrt>=1.1.2
+# UI
+streamlit>=1.38.0
+# Eval
+deepeval>=1.0.0
+# Observability
+structlog>=24.0.0
+# Utils
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+numpy>=1.26.0
+PyYAML>=6.0.0

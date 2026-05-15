@@ -1,0 +1,2 @@
+SAMPLE SCRIPT — Neural Networks in 60 Seconds
+1958: Perceptron invented. 1969: Minsky shows limits, AI winter begins. 1986: Backpropagation revived. 1998: LeCun's LeNet reads handwriting. 2006: Hinton's deep belief networks. 2012: AlexNet wins ImageNet. 2014: GANs invented. 2016: AlphaGo beats Go champion. 2017: Transformers. 2018: BERT. 2020: GPT-3. 2022: ChatGPT. 2023: GPT-4, multimodal AI. The pace keeps accelerating.

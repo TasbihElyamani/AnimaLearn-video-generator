@@ -1,0 +1,1 @@
+SGD: simple gradient descent with momentum. Adam: adaptive learning rates per parameter, combines momentum + RMSProp, most popular. AdaGrad: adapts per parameter but learning rate decays. RMSProp: fixes AdaGrad's decay. AdamW: Adam with decoupled weight decay. Learning rate warmup prevents early instability. Cosine annealing schedules cycle the learning rate.

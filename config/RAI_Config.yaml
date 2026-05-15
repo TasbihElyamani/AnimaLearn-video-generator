@@ -1,0 +1,21 @@
+version: "1.0"
+project: AnimaLearn
+content_safety:
+  blocked_topics: [explicit violence, hate speech, sexually explicit material]
+  narration_rules:
+    - All claims must cite a passage ID
+    - No fabricated facts or statistics
+    - Age-appropriate language
+grounding:
+  min_passages_per_video: 2
+  max_uncited_claims: 0
+human_oversight:
+  hil_gate_required: true
+  allow_skip_hil: false
+guardrails:
+  max_tool_calls_per_agent: 15
+  max_pipeline_steps: 30
+transparency:
+  disclose_ai_generation: true
+  watermark_videos: true
+  cite_sources: true

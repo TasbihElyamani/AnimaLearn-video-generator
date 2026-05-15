@@ -1,0 +1,1 @@
+VISUAL TEMPLATE — Diagram Scene: Dark background with grid. Labeled nodes connected by arrows. Color-coded layers. Data flow animation. Step-by-step reveal.

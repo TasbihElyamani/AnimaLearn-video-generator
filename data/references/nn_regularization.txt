@@ -1,0 +1,1 @@
+Regularization prevents overfitting. Dropout (Srivastava 2014): randomly zero neurons during training with probability p (typically 0.5). Weight decay (L2): adds λ||w||² to loss. L1 encourages sparsity. Batch normalization normalizes layer inputs. Data augmentation creates synthetic training examples. Early stopping halts at best validation loss.

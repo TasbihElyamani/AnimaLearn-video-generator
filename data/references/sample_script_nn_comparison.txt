@@ -1,0 +1,6 @@
+SAMPLE SCRIPT — CNN vs RNN vs Transformer (1 min)
+SCENE 1: 'Three architectures, three superpowers.' Visual: Split screen.
+SCENE 2: 'CNNs see patterns. They slide filters across images to detect edges, textures, and faces.' Visual: Filter sliding over cat photo.
+SCENE 3: 'RNNs remember. They process sequences one step at a time, keeping a hidden state.' Visual: Words flowing into memory.
+SCENE 4: 'Transformers attend. They look at everything at once using self-attention, making them fast and powerful.' Visual: Attention heatmap.
+SCENE 5: 'Which is best? It depends on your data. Images→CNN. Sequences→RNN. Everything else→Transformer.' Visual: Decision tree outro.

@@ -1,0 +1,1 @@
+VISUAL TEMPLATE — Intro Card: Deep gradient background. Large bold title centered. Subtitle below. 2-3 subtle decorative shapes. AnimaLearn watermark. Animation: fade in 0.5s, title slides up.

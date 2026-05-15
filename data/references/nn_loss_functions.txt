@@ -1,0 +1,1 @@
+Loss Functions measure prediction error. MSE (Mean Squared Error) for regression. Cross-entropy for classification: L = -Σ y_i·log(ŷ_i). Binary cross-entropy for 2-class problems. Focal loss for imbalanced datasets. Triplet loss for metric learning. Contrastive loss for siamese networks. Huber loss combines MSE and MAE robustness.

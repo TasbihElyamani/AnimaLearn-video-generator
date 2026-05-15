@@ -1,0 +1,5 @@
+SAMPLE SCRIPT — The Rise of Deep Learning (1 min)
+SCENE 1: NARRATION: 'In 1958, Frank Rosenblatt built the first perceptron. It could learn — but only simple things.' VISUAL: Vintage computer, blinking lights.
+SCENE 2: NARRATION: 'For decades, neural networks were dismissed. Then in 2012, AlexNet stunned the world by crushing the ImageNet challenge.' VISUAL: Graph showing AlexNet's dramatic accuracy improvement.
+SCENE 3: NARRATION: 'The Transformer arrived in 2017, and everything changed. GPT, BERT, and a wave of AI followed.' VISUAL: Animated timeline 1958→2017→2023.
+SCENE 4: NARRATION: 'Today, neural networks write code, create art, and even discover new medicines. The revolution is just beginning.' VISUAL: Futuristic AI collage.

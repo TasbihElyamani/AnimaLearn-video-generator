@@ -1,0 +1,1 @@
+The immune system has innate (immediate, non-specific) and adaptive (specific, memory) components. White blood cells: neutrophils, macrophages, lymphocytes (T cells, B cells). Antibodies (immunoglobulins) bind antigens. T cells: helper (CD4), killer (CD8). Vaccines train adaptive immunity. Autoimmune diseases attack self-tissue.

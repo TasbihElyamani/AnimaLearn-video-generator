@@ -1,0 +1,5 @@
+SAMPLE SCRIPT — What Are Neural Networks? (1 min)
+SCENE 1 (10s): NARRATION: 'Imagine your brain has 86 billion neurons. Neural networks are inspired by this biological system.' VISUAL: Animated brain with glowing neurons connecting.
+SCENE 2 (15s): NARRATION: 'An artificial neural network has layers of nodes. Input data flows forward through hidden layers to produce an output.' VISUAL: Animated diagram showing data flowing through 3 layers.
+SCENE 3 (15s): NARRATION: 'Each connection has a weight. During training, the network adjusts these weights to reduce errors — this is called backpropagation.' VISUAL: Weights pulsing as error signal flows backward.
+SCENE 4 (10s): NARRATION: 'Neural networks power everything from image recognition to ChatGPT. Next time, we explore how they learn.' VISUAL: Montage of applications fading to outro.

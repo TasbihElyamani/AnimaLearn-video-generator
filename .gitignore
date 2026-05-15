@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+outputs/videos/*.mp4
+outputs/trace_logs.jsonl
+.qdrant_data/
+.pytest_cache/
+*.egg-info/

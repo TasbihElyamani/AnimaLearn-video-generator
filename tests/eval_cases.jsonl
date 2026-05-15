@@ -1,0 +1,10 @@
+{"case_id":"eval_001","topic":"Neural Networks","num_videos":3,"expected_subtopics":["layers","backpropagation","activation"],"metric":"faithfulness"}
+{"case_id":"eval_002","topic":"Neural Networks","num_videos":2,"expected_subtopics":["CNNs","Transformers"],"metric":"topic_coverage"}
+{"case_id":"eval_003","topic":"The Solar System","num_videos":3,"expected_subtopics":["inner planets","outer planets","the sun"],"metric":"faithfulness"}
+{"case_id":"eval_004","topic":"Photosynthesis","num_videos":2,"expected_subtopics":["light reactions","Calvin cycle"],"metric":"topic_coverage"}
+{"case_id":"eval_005","topic":"Ancient Egypt","num_videos":2,"expected_subtopics":["pyramids","pharaohs"],"metric":"script_coherence"}
+{"case_id":"eval_006","topic":"Climate Change","num_videos":2,"expected_subtopics":["greenhouse effect","renewable energy"],"metric":"faithfulness"}
+{"case_id":"eval_007","topic":"DNA and Genetics","num_videos":2,"expected_subtopics":["DNA structure","CRISPR"],"metric":"topic_coverage"}
+{"case_id":"eval_008","topic":"Space Exploration","num_videos":3,"expected_subtopics":["Moon landing","Mars rovers"],"metric":"tool_call_presence"}
+{"case_id":"eval_009","topic":"Ocean Ecosystems","num_videos":2,"expected_subtopics":["coral reefs","ocean zones"],"metric":"hil_respect"}
+{"case_id":"eval_010","topic":"Human Immune System","num_videos":2,"expected_subtopics":["antibodies","white blood cells"],"metric":"script_coherence"}
